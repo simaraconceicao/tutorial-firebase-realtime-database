@@ -10,9 +10,23 @@
 
 ✓		13/09	- 1h - Mentoria Coletiva - Dúvidas e dicas
 
+## `Materiais`
+
+✓		Apostila: https://www.canva.com/design/DAFLUizTSL8/mrj1hCtLzdEJ4pnf1UAQuw/view?utm_content=DAFLUizTSL8&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
+
+
+✓		Apresentação: https://www.canva.com/design/DAFLG_Mrnog/79vo2sBld1n6IOtTeb0aMA/view?utm_content=DAFLG_Mrnog&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
+
+## `O projeto`
+
+Vamos criar uma landing page, com formulário de captura salvando os dados no firebase.
+Iremos também fazer o deploy no netlify e alterar dominio.
+
+Acesse aqui: https://tutorial-firebase-mbm.netlify.app/
+
 ---
 
-_Vai incrível iniciar essa jornada com você! Qualquer dúvida ou sugestão, chama no contatinho!_
+_Vai ser incrível compartilhar essa jornada com você! Qualquer dúvida ou sugestão, chama no contatinho!_
 
 ### Vamos nos conectar!
 
@@ -24,4 +38,4 @@ _Vai incrível iniciar essa jornada com você! Qualquer dúvida ou sugestão, ch
 - [quero ser dev](https://queroserdev.com)
 
 <br>
-Feito com 💜 por Simara Conceição
+Feito com 💜 por Simara Conceição | Quero Ser Dev
