@@ -4,18 +4,18 @@
 
 ## `Planejamento`
 
-✓		06/09	- 4h - Apresentação da Instrutora | Pensamento computacional | Conceitos básicos de programação | Razões para uma pessoa empreendedora a programar | Conceitos e ferramentas úteis | Apresentação da dinâmica Mão no Código
+✓		18/04 - Apresentação da Instrutora | | Apresentação da dinâmica Mão no Código Pensamento computacional | Conceitos básicos da web 
 
-✓		09/09	- 4h -  Realização da dinâmica - Mão no Código | HTML | CSS | JAVASCRIPT | Netlify e Firebase
+✓		20/04 -  Realização da dinâmica - Mão no Código | HTML | CSS
 
-✓		13/09	- 1h - Mentoria Coletiva - Dúvidas e dicas
+✓		25/04	-  Continuação do tutorial -  JAVASCRIPT | Netlify e Firebase
 
 ## `Materiais`
 
-✓		Apostila: https://www.canva.com/design/DAFLUizTSL8/mrj1hCtLzdEJ4pnf1UAQuw/view?utm_content=DAFLUizTSL8&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
+✓		Apostila: [https://www.canva.com/design/DAFLUizTSL8/mrj1hCtLzdEJ4pnf1UAQuw/view?utm_content=DAFLUizTSL8&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink](https://www.canva.com/design/DAFgeCwapvg/M1fo0N1S8XjSPniAkvlw6Q/edit?utm_content=DAFgeCwapvg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 
-✓		Apresentação: https://www.canva.com/design/DAFLG_Mrnog/79vo2sBld1n6IOtTeb0aMA/view?utm_content=DAFLG_Mrnog&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
+✓		Apresentação: [https://www.canva.com/design/DAFLG_Mrnog/79vo2sBld1n6IOtTeb0aMA/view?utm_content=DAFLG_Mrnog&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink](https://www.canva.com/design/DAFgc-VFWzY/Rlb5x80ik2CRdj9HELcD2g/edit?utm_content=DAFgc-VFWzY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ## `O projeto`
 
