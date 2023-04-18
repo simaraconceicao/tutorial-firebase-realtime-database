@@ -1,4 +1,4 @@
-# Movimento Black Money | Introdução à programação para afroempreendedores 🚀 
+# Movimento Black Money | Programação para não programadores 🚀 
 
 ![image](https://media2.giphy.com/media/D567hs4Dex0GEnAKOY/giphy.gif)
 
